@@ -1,0 +1,1 @@
+{"version":3,"sources":["Profile.css"],"names":[],"mappings":"AAAA,WACC,gFAAuD,CAAvD,iDAAuD,CACvD,UACD","file":"main.83db7957.chunk.css","sourcesContent":[".container {\r\n\tbackground: linear-gradient(to right, #ff0040, #4000ff);\r\n\tcolor: #fff;\r\n}\r\n"]}
