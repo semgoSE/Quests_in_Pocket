@@ -1,1 +1,0 @@
-{"version":3,"sources":["Profile.css"],"names":[],"mappings":"AAAA,iBACC,YACD,CACA,YACC,sBACD","file":"main.677346cf.chunk.css","sourcesContent":["#datas-container {\r\n\tdisplay: flex;\r\n}\r\n.data-items {\r\n\tjustify-content: center;\r\n}"]}
