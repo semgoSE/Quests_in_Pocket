@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Quests_in_Pocket/precache-manifest.bb8e6175960bf78ef7bc8f72591758ea.js"
+  "/Quests_in_Pocket/precache-manifest.6fc2e25a7e0215cc480e1a73bfd8612e.js"
 );
 
 self.addEventListener('message', (event) => {
