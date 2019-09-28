@@ -1,1 +1,0 @@
-{"version":3,"sources":["Profile.css"],"names":[],"mappings":"AAAA,MACC,aAAc,CACd,eACD,CACA,QACC,SAAU,CACV,UACD","file":"main.dbb8217a.chunk.css","sourcesContent":[".text {\r\n\tfont-size: 90%;\r\n\tfont-weight: bold;\r\n}\r\n.achiev {\r\n\twidth: 20%;\r\n\theight: 28%;\r\n}"]}
