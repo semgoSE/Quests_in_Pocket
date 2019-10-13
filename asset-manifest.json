@@ -1,22 +1,18 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.b62da042.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.b62da042.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.e83f1cc9.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.e83f1cc9.chunk.js.map",
     "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.6d123406.js",
     "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.6d123406.js.map",
     "static/css/2.4e89ce74.chunk.css": "/Quests_in_Pocket/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.47a5d9f8.chunk.js": "/Quests_in_Pocket/static/js/2.47a5d9f8.chunk.js",
-    "static/js/2.47a5d9f8.chunk.js.map": "/Quests_in_Pocket/static/js/2.47a5d9f8.chunk.js.map",
+    "static/js/2.5081c0ca.chunk.js": "/Quests_in_Pocket/static/js/2.5081c0ca.chunk.js",
+    "static/js/2.5081c0ca.chunk.js.map": "/Quests_in_Pocket/static/js/2.5081c0ca.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.656164a0d17a0d3887d9d159d06040c5.js": "/Quests_in_Pocket/precache-manifest.656164a0d17a0d3887d9d159d06040c5.js",
+    "precache-manifest.5b42dcf1888eefb5f65169d0f712cfdd.js": "/Quests_in_Pocket/precache-manifest.5b42dcf1888eefb5f65169d0f712cfdd.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/Quests_in_Pocket/static/css/2.4e89ce74.chunk.css.map",
     "static/media/Design-story.png": "/Quests_in_Pocket/static/media/Design-story.2ea10a94.png",
     "static/media/achiev-1.png": "/Quests_in_Pocket/static/media/achiev-1.05917b64.png",
-    "static/media/forest.png": "/Quests_in_Pocket/static/media/forest.cc873e2d.png",
-    "static/media/man.jpg": "/Quests_in_Pocket/static/media/man.f3b16325.jpg",
-    "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png",
-    "static/media/one_1.jpg": "/Quests_in_Pocket/static/media/one_1.230919a1.jpg",
-    "static/media/one_colum.jpg": "/Quests_in_Pocket/static/media/one_colum.5e049246.jpg"
+    "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png"
   }
 }
