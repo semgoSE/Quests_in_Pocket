@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.1ddcc492.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.1ddcc492.chunk.js.map",
-    "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.6d123406.js",
-    "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.6d123406.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/Quests_in_Pocket/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.c2ebab13.chunk.js": "/Quests_in_Pocket/static/js/2.c2ebab13.chunk.js",
-    "static/js/2.c2ebab13.chunk.js.map": "/Quests_in_Pocket/static/js/2.c2ebab13.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.139d7709.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.139d7709.chunk.js.map",
+    "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.ef97b0e7.js",
+    "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.ef97b0e7.js.map",
+    "static/css/2.7214840c.chunk.css": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css",
+    "static/js/2.084733e3.chunk.js": "/Quests_in_Pocket/static/js/2.084733e3.chunk.js",
+    "static/js/2.084733e3.chunk.js.map": "/Quests_in_Pocket/static/js/2.084733e3.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.886975d67e8439ad33322aa93b4a7016.js": "/Quests_in_Pocket/precache-manifest.886975d67e8439ad33322aa93b4a7016.js",
+    "precache-manifest.175158898d4bd1cda3f845b72ee6fcdd.js": "/Quests_in_Pocket/precache-manifest.175158898d4bd1cda3f845b72ee6fcdd.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/Quests_in_Pocket/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/2.7214840c.chunk.css.map": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css.map",
     "static/media/Design-story.png": "/Quests_in_Pocket/static/media/Design-story.2ea10a94.png",
     "static/media/achiev-1.png": "/Quests_in_Pocket/static/media/achiev-1.05917b64.png",
     "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef97b0e7.js",
+    "static/css/2.7214840c.chunk.css",
+    "static/js/2.084733e3.chunk.js",
+    "static/js/main.139d7709.chunk.js"
+  ]
 }
