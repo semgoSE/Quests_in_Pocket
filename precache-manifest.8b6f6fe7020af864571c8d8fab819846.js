@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7caadb73cdfa9fe3a89447240e011cce",
+    "revision": "c3b0c47f7e465690e93cc55ef8b0c232",
     "url": "/Quests_in_Pocket/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Quests_in_Pocket/static/js/2.f28d285d.chunk.js"
   },
   {
-    "revision": "8f72733f0429e9d6b5cc",
-    "url": "/Quests_in_Pocket/static/js/main.938e46c6.chunk.js"
+    "revision": "1e235573156ce5b982eb",
+    "url": "/Quests_in_Pocket/static/js/main.0f3c3110.chunk.js"
   },
   {
     "revision": "483b88489446c161a2fe",
