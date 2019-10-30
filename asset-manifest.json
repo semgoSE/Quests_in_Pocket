@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.60668e1b.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.60668e1b.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.617c28d5.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.617c28d5.chunk.js.map",
     "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.ef97b0e7.js",
     "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.ef97b0e7.js.map",
     "static/css/2.7214840c.chunk.css": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css",
-    "static/js/2.c1942646.chunk.js": "/Quests_in_Pocket/static/js/2.c1942646.chunk.js",
-    "static/js/2.c1942646.chunk.js.map": "/Quests_in_Pocket/static/js/2.c1942646.chunk.js.map",
+    "static/js/2.e027ba45.chunk.js": "/Quests_in_Pocket/static/js/2.e027ba45.chunk.js",
+    "static/js/2.e027ba45.chunk.js.map": "/Quests_in_Pocket/static/js/2.e027ba45.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.8294ff9e856da9983892a440db115cde.js": "/Quests_in_Pocket/precache-manifest.8294ff9e856da9983892a440db115cde.js",
+    "precache-manifest.d278d3f88d0a4a65b976d137f70eed9b.js": "/Quests_in_Pocket/precache-manifest.d278d3f88d0a4a65b976d137f70eed9b.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
     "static/css/2.7214840c.chunk.css.map": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css.map",
-    "static/media/Design-story.png": "/Quests_in_Pocket/static/media/Design-story.2ea10a94.png",
     "static/media/achiev-1.png": "/Quests_in_Pocket/static/media/achiev-1.05917b64.png",
     "static/media/l.png": "/Quests_in_Pocket/static/media/l.5aef6ad1.png",
     "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png"
@@ -19,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.ef97b0e7.js",
     "static/css/2.7214840c.chunk.css",
-    "static/js/2.c1942646.chunk.js",
-    "static/js/main.60668e1b.chunk.js"
+    "static/js/2.e027ba45.chunk.js",
+    "static/js/main.617c28d5.chunk.js"
   ]
 }
