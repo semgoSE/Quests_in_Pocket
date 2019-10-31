@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "665dd6de13f4fa6d9a1058ffcae78aa5",
+    "revision": "34cea555cea8acfc6504fe1c82839960",
     "url": "/Quests_in_Pocket/index.html"
   },
   {
-    "revision": "2822a08b5773c778b6e7",
+    "revision": "321f46478534c8c8ccca",
     "url": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css"
   },
   {
-    "revision": "2822a08b5773c778b6e7",
-    "url": "/Quests_in_Pocket/static/js/2.9e6e150c.chunk.js"
+    "revision": "321f46478534c8c8ccca",
+    "url": "/Quests_in_Pocket/static/js/2.c09985e7.chunk.js"
   },
   {
-    "revision": "1dc9a0acf981e2f93f73",
-    "url": "/Quests_in_Pocket/static/js/main.7757742d.chunk.js"
+    "revision": "888e90985e7dd3176f21",
+    "url": "/Quests_in_Pocket/static/js/main.4344e687.chunk.js"
   },
   {
     "revision": "483b88489446c161a2fe",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05917b64eb9eff057eb7c74b3bb2a141",
     "url": "/Quests_in_Pocket/static/media/achiev-1.05917b64.png"
-  },
-  {
-    "revision": "4038bd50da888cc7d0e8502db254f2e7",
-    "url": "/Quests_in_Pocket/static/media/i.4038bd50.jpg"
   },
   {
     "revision": "5aef6ad1f2a73e1e67bd09bf8e9d1155",
