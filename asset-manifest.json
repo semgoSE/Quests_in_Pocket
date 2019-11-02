@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.422aff71.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.422aff71.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.70a7da01.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.70a7da01.chunk.js.map",
     "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.ef97b0e7.js",
     "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.ef97b0e7.js.map",
     "static/css/2.7214840c.chunk.css": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css",
-    "static/js/2.5909699a.chunk.js": "/Quests_in_Pocket/static/js/2.5909699a.chunk.js",
-    "static/js/2.5909699a.chunk.js.map": "/Quests_in_Pocket/static/js/2.5909699a.chunk.js.map",
+    "static/js/2.78bbc676.chunk.js": "/Quests_in_Pocket/static/js/2.78bbc676.chunk.js",
+    "static/js/2.78bbc676.chunk.js.map": "/Quests_in_Pocket/static/js/2.78bbc676.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.4382573ac5b56dbc2fd6334547ec4dad.js": "/Quests_in_Pocket/precache-manifest.4382573ac5b56dbc2fd6334547ec4dad.js",
+    "precache-manifest.2223d15cb49850669e06d7c0a331fcd1.js": "/Quests_in_Pocket/precache-manifest.2223d15cb49850669e06d7c0a331fcd1.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
     "static/css/2.7214840c.chunk.css.map": "/Quests_in_Pocket/static/css/2.7214840c.chunk.css.map",
-    "static/media/Design-story.png": "/Quests_in_Pocket/static/media/Design-story.2ea10a94.png",
     "static/media/achiev-1.png": "/Quests_in_Pocket/static/media/achiev-1.05917b64.png",
-    "static/media/i.jpg": "/Quests_in_Pocket/static/media/i.4038bd50.jpg",
     "static/media/l.png": "/Quests_in_Pocket/static/media/l.5aef6ad1.png",
     "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ef97b0e7.js",
     "static/css/2.7214840c.chunk.css",
-    "static/js/2.5909699a.chunk.js",
-    "static/js/main.422aff71.chunk.js"
+    "static/js/2.78bbc676.chunk.js",
+    "static/js/main.70a7da01.chunk.js"
   ]
 }
