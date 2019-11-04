@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d63b6cb8e44cc94778dbba0616e42a92",
+    "revision": "436e856b99375f5c2cc094e943de1fd1",
     "url": "/Quests_in_Pocket/index.html"
   },
   {
