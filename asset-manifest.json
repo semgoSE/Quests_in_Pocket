@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.c7324356.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.c7324356.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.861bf106.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.861bf106.chunk.js.map",
     "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.d99eef2a.js",
     "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.d99eef2a.js.map",
     "static/css/2.af2a5bd6.chunk.css": "/Quests_in_Pocket/static/css/2.af2a5bd6.chunk.css",
     "static/js/2.1fc1f03e.chunk.js": "/Quests_in_Pocket/static/js/2.1fc1f03e.chunk.js",
     "static/js/2.1fc1f03e.chunk.js.map": "/Quests_in_Pocket/static/js/2.1fc1f03e.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.ccea8f177c67fbc8a70c9e2079594686.js": "/Quests_in_Pocket/precache-manifest.ccea8f177c67fbc8a70c9e2079594686.js",
+    "precache-manifest.6b822fad9bcc69defd8f50ab8fdf74a3.js": "/Quests_in_Pocket/precache-manifest.6b822fad9bcc69defd8f50ab8fdf74a3.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
     "static/css/2.af2a5bd6.chunk.css.map": "/Quests_in_Pocket/static/css/2.af2a5bd6.chunk.css.map",
     "static/media/3zQ-wEsQbgg.jpg": "/Quests_in_Pocket/static/media/3zQ-wEsQbgg.4464c352.jpg",
@@ -18,12 +18,13 @@
     "static/media/gLBSl0uS8i0.jpg": "/Quests_in_Pocket/static/media/gLBSl0uS8i0.f3342f20.jpg",
     "static/media/l.png": "/Quests_in_Pocket/static/media/l.5aef6ad1.png",
     "static/media/lJnehNUPwRE.jpg": "/Quests_in_Pocket/static/media/lJnehNUPwRE.c6f3f82d.jpg",
-    "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png"
+    "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png",
+    "static/media/nrf.jpg": "/Quests_in_Pocket/static/media/nrf.b18a0f1a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d99eef2a.js",
     "static/css/2.af2a5bd6.chunk.css",
     "static/js/2.1fc1f03e.chunk.js",
-    "static/js/main.c7324356.chunk.js"
+    "static/js/main.861bf106.chunk.js"
   ]
 }
