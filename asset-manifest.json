@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.61f30408.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.61f30408.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.fc165a16.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.fc165a16.chunk.js.map",
     "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.d99eef2a.js",
     "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.d99eef2a.js.map",
     "static/css/2.af2a5bd6.chunk.css": "/Quests_in_Pocket/static/css/2.af2a5bd6.chunk.css",
     "static/js/2.a549ba6d.chunk.js": "/Quests_in_Pocket/static/js/2.a549ba6d.chunk.js",
     "static/js/2.a549ba6d.chunk.js.map": "/Quests_in_Pocket/static/js/2.a549ba6d.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.1600d21fccd009e4fbdbaaef62ffa723.js": "/Quests_in_Pocket/precache-manifest.1600d21fccd009e4fbdbaaef62ffa723.js",
+    "precache-manifest.9df729a4e151d297d7680c070ceb3e1a.js": "/Quests_in_Pocket/precache-manifest.9df729a4e151d297d7680c070ceb3e1a.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
     "static/css/2.af2a5bd6.chunk.css.map": "/Quests_in_Pocket/static/css/2.af2a5bd6.chunk.css.map",
     "static/media/3zQ-wEsQbgg.jpg": "/Quests_in_Pocket/static/media/3zQ-wEsQbgg.4464c352.jpg",
     "static/media/GN8yUxICiFU.jpg": "/Quests_in_Pocket/static/media/GN8yUxICiFU.777d2630.jpg",
     "static/media/achiev-1.png": "/Quests_in_Pocket/static/media/achiev-1.05917b64.png",
     "static/media/eB4uk2vSIio.jpg": "/Quests_in_Pocket/static/media/eB4uk2vSIio.f7f747ad.jpg",
-    "static/media/gLBSl0uS8i0.jpg": "/Quests_in_Pocket/static/media/gLBSl0uS8i0.f3342f20.jpg",
     "static/media/l.png": "/Quests_in_Pocket/static/media/l.5aef6ad1.png",
     "static/media/lJnehNUPwRE.jpg": "/Quests_in_Pocket/static/media/lJnehNUPwRE.c6f3f82d.jpg",
+    "static/media/logo.png": "/Quests_in_Pocket/static/media/logo.12a761a4.png",
     "static/media/map.png": "/Quests_in_Pocket/static/media/map.e0ba97a3.png",
     "static/media/nn.jpg": "/Quests_in_Pocket/static/media/nn.cee975b7.jpg"
   },
@@ -25,6 +25,6 @@
     "static/js/runtime-main.d99eef2a.js",
     "static/css/2.af2a5bd6.chunk.css",
     "static/js/2.a549ba6d.chunk.js",
-    "static/js/main.61f30408.chunk.js"
+    "static/js/main.fc165a16.chunk.js"
   ]
 }
