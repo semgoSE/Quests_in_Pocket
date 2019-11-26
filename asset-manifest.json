@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Quests_in_Pocket/static/js/main.ff0bcb08.chunk.js",
-    "main.js.map": "/Quests_in_Pocket/static/js/main.ff0bcb08.chunk.js.map",
+    "main.js": "/Quests_in_Pocket/static/js/main.d5bc41c8.chunk.js",
+    "main.js.map": "/Quests_in_Pocket/static/js/main.d5bc41c8.chunk.js.map",
     "runtime-main.js": "/Quests_in_Pocket/static/js/runtime-main.d99eef2a.js",
     "runtime-main.js.map": "/Quests_in_Pocket/static/js/runtime-main.d99eef2a.js.map",
     "static/css/2.af2a5bd6.chunk.css": "/Quests_in_Pocket/static/css/2.af2a5bd6.chunk.css",
     "static/js/2.0c9e6768.chunk.js": "/Quests_in_Pocket/static/js/2.0c9e6768.chunk.js",
     "static/js/2.0c9e6768.chunk.js.map": "/Quests_in_Pocket/static/js/2.0c9e6768.chunk.js.map",
     "index.html": "/Quests_in_Pocket/index.html",
-    "precache-manifest.e1bbc7fe3c896e8f70e9751f7b33d649.js": "/Quests_in_Pocket/precache-manifest.e1bbc7fe3c896e8f70e9751f7b33d649.js",
+    "precache-manifest.9c16049ad5ba11250f07339dd3dbbec6.js": "/Quests_in_Pocket/precache-manifest.9c16049ad5ba11250f07339dd3dbbec6.js",
     "service-worker.js": "/Quests_in_Pocket/service-worker.js",
     "static/css/2.af2a5bd6.chunk.css.map": "/Quests_in_Pocket/static/css/2.af2a5bd6.chunk.css.map",
     "static/media/3zQ-wEsQbgg.jpg": "/Quests_in_Pocket/static/media/3zQ-wEsQbgg.4464c352.jpg",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.d99eef2a.js",
     "static/css/2.af2a5bd6.chunk.css",
     "static/js/2.0c9e6768.chunk.js",
-    "static/js/main.ff0bcb08.chunk.js"
+    "static/js/main.d5bc41c8.chunk.js"
   ]
 }
