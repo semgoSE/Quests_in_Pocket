@@ -69,7 +69,7 @@ const blueBackground = {
 class App extends React.Component {
   constructor (props) {
     super(props);
-    this.num = 0;
+    this.num = 2;
 
     this.state = {
       window:null,
@@ -87,6 +87,7 @@ class App extends React.Component {
       fetchedUser: {},
       id:null,
       ball:0,
+      preball:0,
       tooltip:true,
       patency:true,
       rr:null,
@@ -225,7 +226,7 @@ class App extends React.Component {
         before={<Avatar size={16} style={orangeBackground}><Icon16Done fill="#fff" width={14} height={14} /></Avatar>}
       >
       +50
-      </Snackbar>, Poll:[{option:a.answer_1,votes:0},{option:a.answer_2,votes:0},{option:a.answer_3, votes:0}],ball:this.state.ball+50});
+      </Snackbar>, Poll:[{option:a.answer_1,votes:0},{option:a.answer_2,votes:0},{option:a.answer_3, votes:0}],ball:this.state.ball+50,preball:50});
           }else{
             if(this.state.patency == true){
               this.setState({snackbar:
@@ -236,7 +237,7 @@ class App extends React.Component {
           before={<Avatar size={16} style={orangeBackground}><Icon16Done fill="#fff" width={14} height={14} /></Avatar>}
         >
         +10
-        </Snackbar>,Poll:data.data,ball:this.state.ball+10});
+        </Snackbar>,Poll:data.data,ball:this.state.ball+10, preball:10});
             }else{this.setState({Poll:data.data})}
             }
         });
@@ -274,7 +275,7 @@ class App extends React.Component {
       this.setState({modal:null});
     }
 
-    backMap=(e)=>{ this.setState({activePanelMap:'map'})}
+    backMap=(e)=>{ this.setState({activePanelMap:'map',ball:this.state.ball-this.state.preball})}
 
     openDefault(e) {
     this.setState({ popout:
