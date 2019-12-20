@@ -1,0 +1,14 @@
+#Avatar-container {
+	width: 153px;
+	height: 153px;
+	background: linear-gradient(to bottom #1F69FE #BF24FE);
+	border-radius: 50%;
+}
+#name {
+    font-size: 30%;
+    font-weight: bold;
+}
+#score-text {
+	font-size: 30%;
+	font-weight: bold;
+}
